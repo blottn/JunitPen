@@ -1,12 +1,12 @@
-package org.junit;
+package org.nblott;
 
-public class Pen {
+public class Data {
 
 	private int privField;
 	
 	public int pubField;
 	
-	public Pen() {
+	public Data() {
 		this.privField = 9;
 		this.pubField = 5;
 	}
